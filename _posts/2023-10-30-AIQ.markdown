@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Developing the Future of Energy: A Global AI Pioneer"
-date:   2023-10-30 09:17:56 +0400
-categories: jekyll update
+title: "Developing the Future of Energy: A Global AI Pioneer"
+date: 2023-10-30 09:17:56 +0400
+categories: [homelab, hardware]
+tags: [aiq, AI]
 ---
 
 <div style="display: flex" >
