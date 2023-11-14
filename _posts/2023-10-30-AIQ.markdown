@@ -113,3 +113,43 @@ categories: jekyll update
 <br>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+
+
+<br> 
+
+# Our Partners
+
+<img src="/assets/lib/images/khalifa uni logo.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 150px;"/>
+<img src="/assets/lib/images/Schlumberger logo.jpg" alt="Right Image" style="float: right; margin-right: 10px; width: 80%; height: 150px;"/>
+<img src="/assets/lib/images/Hub71-Logo.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 200px;"/>
+<img src="/assets/lib/images/MBZ-AI-logo.jpg" alt="Left Image" style="float: left; margin-right: 10px; width: 80%; height: 150px;"/>
+<img src="/assets/lib/images/baker hughes.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 100px;"/>
+
+
+<!-- <img src="/assets/lib/images/khalifa uni logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
+<img src="/assets/lib/images/Schlumberger logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
+<img src="/assets/lib/images/Hub71-Logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
+<img src="/assets/lib/images/MBZ-AI-logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
+<img src="/assets/lib/images/Schlumberger logo.jpg" alt="adnoc" style="width: 500%; height: 400px;"> -->
+
+<!-- 
+<style>
+.image-left {
+    float: left;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.image-right {
+    float: right;
+    margin-left: 10px; /* Adjust the margin as needed */
+}
+
+/* Clear floats after the images */
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+</style> -->
