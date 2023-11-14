@@ -4,7 +4,7 @@ order: 5
 css: /assets/lib/images/css/styles.css
 ---
 
-# Send us your enquires
+# Send Us Your Feedback
 <body>
   <form action="/submit-feedback" method="POST">
     Name: <br>
