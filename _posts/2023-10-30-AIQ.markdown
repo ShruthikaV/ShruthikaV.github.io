@@ -14,7 +14,6 @@ tags: [aiq, AI]
     </div>
 </div>
 
-
 ## Our identity and actions
 
 <div style="display: flex;">
@@ -29,7 +28,6 @@ tags: [aiq, AI]
 <br>
 
 <img src="/assets/lib/images/aiq4.jpg" alt="aiq4" style="width: 250%; height: 400px;">
-
 
 ## Our method?
 
@@ -60,7 +58,6 @@ tags: [aiq, AI]
 
 <img src="/assets/lib/images/aiq2.jpg" alt="adnoc" style="width: 500%; height: 400px;">
 
-
 <!-- <div>
     <div style="text-align: right">
         <img src="/assets/lib/images/aiq2.jpg" alt="aiq2" style="width: 400%; height: 230px;">
@@ -87,8 +84,7 @@ tags: [aiq, AI]
     </div>
 </div> -->
 
-## Mastering Transition and Leading the Change 
-
+## Mastering Transition and Leading the Change
 
 <div style="display: flex;">
     <div style="flex: 1; font-family: Arial, sans-serif;font-size: 17px">
@@ -105,51 +101,62 @@ tags: [aiq, AI]
 
 <img src="/assets/lib/images/aiq3.jpg" alt="adnoc" style="width: 500%; height: 400px;">
 
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+# Our Partners
+
+<div class="scrolling-logos-container">
+  <div class="scrolling-logos">
+    <img src="/assets/lib/images/khalifa-uni-logo.jpg" alt="Image 1" style= "width: 95%; margin-right: 30px; height: 180px;">
+    <img src="/assets/lib/images/Schlumberger-logo.jpg" alt="Image 2" style= "width: 130%; margin-left: 20px; margin-right: 30px; height: 180px;">
+    <img src="/assets/lib/images/Hub71-Logo.jpg" alt="Image 4" style= "width: 100%; margin-left: 25px; height: 180px;">
+    <img src="/assets/lib/images/baker-hughes.jpg" alt="Image 6" style= "width: 100%; margin-left: 50px; height: 180px;">
+  </div>
+</div>
+
+<style>
+.scrolling-logos-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.scrolling-logos {
+  display: flex;
+  animation: scroll 10s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.scrolling-logos img {
+  width: 100px; /* Set your desired width */
+  height: auto;
+  margin-right: 20px; /* Adjust as needed */
+}
+
+.scroll-left,
+.scroll-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+</style>
 
 <br>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-
-
-<br> 
-
-# Our Partners
-
-<img src="/assets/lib/images/khalifa uni logo.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 150px;"/>
-<img src="/assets/lib/images/Schlumberger logo.jpg" alt="Right Image" style="float: right; margin-right: 10px; width: 80%; height: 150px;"/>
-<img src="/assets/lib/images/Hub71-Logo.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 200px;"/>
-<img src="/assets/lib/images/MBZ-AI-logo.jpg" alt="Left Image" style="float: left; margin-right: 10px; width: 80%; height: 150px;"/>
-<img src="/assets/lib/images/baker hughes.jpg" alt="Left Image" style="float: left; margin-left: 10px; width: 80%; height: 100px;"/>
-
-
-<!-- <img src="/assets/lib/images/khalifa uni logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
-<img src="/assets/lib/images/Schlumberger logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
-<img src="/assets/lib/images/Hub71-Logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
-<img src="/assets/lib/images/MBZ-AI-logo.jpg" alt="adnoc" style="width: 500%; height: 400px;">
-<img src="/assets/lib/images/Schlumberger logo.jpg" alt="adnoc" style="width: 500%; height: 400px;"> -->
-
-<!-- 
-<style>
-.image-left {
-    float: left;
-    margin-right: 10px; /* Adjust the margin as needed */
-}
-
-.image-right {
-    float: right;
-    margin-left: 10px; /* Adjust the margin as needed */
-}
-
-/* Clear floats after the images */
-.clearfix::after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-</style> -->
+<br>
